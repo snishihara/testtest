@@ -1,27 +1,5 @@
 <PROFILES>
 
-<!-- =========================== -->
-<!-- Workstation Applications    -->
-<!-- =========================== -->
-
-<!-- 3ds max -->
-  <_3dsmax>
-    <OpenGLCaps>0x00008040</OpenGLCaps>
-    <OpenGLCapsEx>0x00000000</OpenGLCapsEx>
-    <CrossFireCaps>0x00000010</CrossFireCaps>
-  </_3dsmax>
-
-<!-- ABAQUS -->
-  <abq661>
-    <PROFILENAME>ProfileAbaqus</PROFILENAME>
-  </abq661>
-  <ABQvwrK>
-    <PROFILENAME>ProfileAbaqus</PROFILENAME>
-  </ABQvwrK>
-  <ABQcaeK>
-    <PROFILENAME>ProfileAbaqus</PROFILENAME>
-  </ABQcaeK>
-
 <!-- AutoCAD -->
   <acad>
     <OpenGLCaps>0x00D00000</OpenGLCaps>
